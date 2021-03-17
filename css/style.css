@@ -1,0 +1,58 @@
+.class1{
+    height: 150px;
+    width: 300px;
+    background: green;
+    padding: 20px;
+    text-align: center;
+    margin:auto;
+}
+.class3{
+    height: 400px;
+    width:25px;
+    background: crimson;
+    margin-left: -120px;
+    margin-top: -166px;
+}
+.class4{
+    height: 25px;
+    width: 25px;
+    background: black;
+    margin-left: -120px;
+}
+.class5{
+    height: 25px;
+    width: 200px;
+    background: rgb(100, 18, 18);
+    margin-left: -200px;
+}
+.class6{
+    height: 25px;
+    width: 300px;
+    background: rgb(192, 212, 10);
+    margin-left: -250px;
+}
+.class7{
+    height: 25px;
+    width: 400px;
+    background: rgb(124, 1, 240);
+    margin-left: -300px;
+}
+.class8{
+    height: 25px;
+    width: 550px;
+    background: rgba(3, 211, 248, 0.479);
+    margin-left: -370px;
+}
+.class9{
+    height: 25px;
+    width: 650px;
+    background: rgb(27, 30, 83);
+    margin-left: -422px;
+}
+.class10{
+    height: 25px;
+    width: 700px;
+    background: rgb(0, 255, 34);
+    margin-left: -450px;
+}
+

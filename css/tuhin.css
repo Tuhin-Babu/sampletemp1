@@ -1,0 +1,12 @@
+.class2{
+    height: 150px;
+    width: 150px;
+    background: red;
+    border-radius: 100%;
+    margin: auto;
+}
+img{
+    max-width: 100%;
+    width: 80px;
+    border-radius: 100%;
+}
